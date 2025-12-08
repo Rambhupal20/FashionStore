@@ -128,24 +128,24 @@ const App = () => {
                     <div className="footer-column">
                         <h3>Contact Us</h3>
                         <p><i className="fa-solid fa-location-dot"></i> Anantapur, Andhra Pradesh</p>
-                        <p><i className="fa-solid fa-phone"></i> +91 98765 43210</p>
+                        <p><i className="fa-solid fa-phone"></i> +91 0000000000</p>
                         <p><i className="fa-solid fa-envelope"></i> contact@fashionhub.com</p>
                         
                         {/* ICONS CONTAINER */}
                         <div className="social-icons">
                             
                             {/* Instagram */}
-                            <a href="https://instagram.com" target="_blank" rel="noreferrer" className="icon-box insta">
+                            <a href="" target="_blank" rel="noreferrer" className="icon-box insta">
                                 <i className="fa-brands fa-instagram"></i>
                             </a>
 
                             {/* WhatsApp */}
-                            <a href="https://wa.me/919876543210" target="_blank" rel="noreferrer" className="icon-box whatsapp">
+                            <a href="" target="_blank" rel="noreferrer" className="icon-box whatsapp">
                                 <i className="fa-brands fa-whatsapp"></i>
                             </a>
 
                             {/* Google Maps */}
-                            <a href="https://maps.google.com/?q=Anantapur" target="_blank" rel="noreferrer" className="icon-box maps">
+                            <a href="" target="_blank" rel="noreferrer" className="icon-box maps">
                                 <i className="fa-solid fa-map-location-dot"></i>
                             </a>
 
